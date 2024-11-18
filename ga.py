@@ -1,3 +1,3 @@
-print("hey")
-print("shreya")
-print("saanvi")
+print("sh")
+print("re")
+print("ya")
